@@ -1,23 +1,117 @@
-menu principal parcialmente concluido, ainda faltam recursos
-- tela de opçoes
-- fundo
-- redesign dos botoes e hitbox adequada
-- redesign do layout 
+🃏 Battle Card Game
 
-tamanho do projeto: 224 linhas
-main.cpp 46 linhas
-menu.cpp 172 linhas
-menu.hpp 6 linhas
 
-isto é um projeto para futuro jogo de turno em cartas
-projetos para o futuro:
-- gacha system
-- IA bot
-- batalhas LAN
+Um projeto de jogo de cartas com batalhas por turnos, desenvolvido em C++ utilizando a biblioteca SFML 2.
 
-principais tecnologias:
+
+Atualmente, o projeto está em desenvolvimento inicial, com foco na construção das interfaces e da estrutura visual do jogo.
+
+
+
+📌 Status do desenvolvimento
+
+
+Fase atual: Desenvolvimento da interface principal.
+
+
+Menu principal
+
+
+
+
+[x] Estrutura inicial do menu
+
+
+[ ] Tela de opções
+
+
+[ ] Implementação do plano de fundo
+
+
+[ ] Redesign dos botões
+
+
+[ ] Ajuste das hitboxes
+
+
+[ ] Redesign geral do layout
+
+
+
+
+
+🛠️ Tecnologias utilizadas
+
+
+
+
+Tecnologia
+Utilização
+
+
+
+
 C++
-SFML 2
+Linguagem principal
 
-status:
-atualmente em fase de desenvolvimento inicial concentrando-se na construção das interfaces
+
+SFML 2
+Interface gráfica e recursos multimídia
+
+
+
+
+
+🚀 Funcionalidades planejadas
+
+
+Recursos que pretendo implementar futuramente:
+
+
+
+
+[ ] Sistema Gacha
+
+
+[ ] IA para controlar adversários
+
+
+[ ] Batalhas em LAN
+
+
+[ ] Sistema de batalha por turnos
+
+
+[ ] Sistema de cartas e habilidades
+
+
+
+
+
+📂 Estrutura do projeto
+
+
+Battle-Card-Game/
+├── assets/
+├── include/
+├── src/
+└── README.md
+
+
+
+
+📖 Sobre o projeto
+
+
+Este projeto tem como objetivo explorar o desenvolvimento de um jogo de cartas, desde a construção da interface até a implementação de sistemas de batalha e inteligência artificial.
+
+
+O desenvolvimento está em andamento, então funcionalidades e estruturas podem sofrer alterações ao longo do tempo.
+
+
+
+
+  Desenvolvido com C++ e SFML 2.
+
+
+
