@@ -108,7 +108,7 @@ Este projeto tem como objetivo explorar o desenvolvimento de um jogo de cartas, 
 
 O desenvolvimento está em andamento, então funcionalidades e estruturas podem sofrer alterações ao longo do tempo.
 
-
+tamanho atual: 269 linhas
 
 
   Desenvolvido com C++ e SFML 2.
